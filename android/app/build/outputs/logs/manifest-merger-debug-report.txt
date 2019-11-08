@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.2] /home/alp/.gradle/caches/transforms-2/files-2.1/03cab0dfb4da66171e6824a606fa66f8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/alp/.gradle/caches/transforms-2/files-2.1/23a07d5f596fd75f733b5c23a9ea84b4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alp/.gradle/caches/transforms-2/files-2.1/039ec29d1f490625989dbe4ec00cbba7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c63044c4b267c7874fd4bb1441c2c60d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/eb526f16990a5633a74d5833afcbbf80/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/19b171377d3c19e697a73fd0a062f68a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/7fa9e12db60d486c3d0f8801a49b38e4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/eb161c9ccf28c2084bed23c92dcceca4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/69ecf795d0f86539a85aa4e45852deef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/ff0a946435cfce194b77000f21090c8c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alp/.gradle/caches/transforms-2/files-2.1/04e3b46068e30740909b650abce63cde/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/da5ba1c8243ee23ca5ef3f934de35cca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/785b2c6b91d2133e72650909be4fb888/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/e6514ce7d67dbf806bea78049307b4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/ecdb81068b157619583bb20b6f767a7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/cc792ea4f1ef4101d30e78ab5883ee06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/e4fc0e138c1186e63d487ecf9f148780/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/d18b226e2bdf3640f755c150fee7096d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c5e69bc0a3fd094c736d9e035e87a52c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/0bd27748bde3cec02e9bdd610cd066fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/066c2cdbeb10db590b4d226a88b6b166/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/a75f13f3d325b8556ac1c6231d9d7cb1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/344babaeb5a47427859d495030539bce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/b10e4b64dd6cef0507019f05401b0693/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/e73a4e4fb9e0e352ff306ffecec431ef/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/71ca7d281505a2a3bb35ebec25cae47b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c43d44805ebc9ffd3061d7c434fe2eb3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/8f950a8452d8db34c4054c36acbab532/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/5cc3ea4bffbf5c0dd5f81e3a8b822c3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/254fdeff500cc1756293146e87f304a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/febb6b5fc1839442f2c373e2672995a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/7f87844c507bffb86e6daf4f10d82c6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/fe6e9ecd39e6abf17c1f5afd85eb9941/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/f617c263578dbd2cdb337e260276ec13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/b6878a64ee2247f8f9f0dd1b14f964b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/762de676063aa5f2fca2ab3a8d9cb845/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c79f43e799765fc4423f0409b095791b/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /home/alp/.gradle/caches/transforms-2/files-2.1/03cab0dfb4da66171e6824a606fa66f8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /home/alp/.gradle/caches/transforms-2/files-2.1/03cab0dfb4da66171e6824a606fa66f8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alp/.gradle/caches/transforms-2/files-2.1/04e3b46068e30740909b650abce63cde/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alp/.gradle/caches/transforms-2/files-2.1/04e3b46068e30740909b650abce63cde/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/e73a4e4fb9e0e352ff306ffecec431ef/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/e73a4e4fb9e0e352ff306ffecec431ef/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/71ca7d281505a2a3bb35ebec25cae47b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/71ca7d281505a2a3bb35ebec25cae47b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/e73a4e4fb9e0e352ff306ffecec431ef/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.rnexample.MainActivity
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.2] /home/alp/.gradle/caches/transforms-2/files-2.1/03cab0dfb4da66171e6824a606fa66f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/alp/.gradle/caches/transforms-2/files-2.1/03cab0dfb4da66171e6824a606fa66f8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/alp/.gradle/caches/transforms-2/files-2.1/23a07d5f596fd75f733b5c23a9ea84b4/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/alp/.gradle/caches/transforms-2/files-2.1/23a07d5f596fd75f733b5c23a9ea84b4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alp/.gradle/caches/transforms-2/files-2.1/039ec29d1f490625989dbe4ec00cbba7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alp/.gradle/caches/transforms-2/files-2.1/039ec29d1f490625989dbe4ec00cbba7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c63044c4b267c7874fd4bb1441c2c60d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c63044c4b267c7874fd4bb1441c2c60d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/eb526f16990a5633a74d5833afcbbf80/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/eb526f16990a5633a74d5833afcbbf80/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/19b171377d3c19e697a73fd0a062f68a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/19b171377d3c19e697a73fd0a062f68a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/7fa9e12db60d486c3d0f8801a49b38e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/7fa9e12db60d486c3d0f8801a49b38e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/eb161c9ccf28c2084bed23c92dcceca4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/eb161c9ccf28c2084bed23c92dcceca4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/69ecf795d0f86539a85aa4e45852deef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/69ecf795d0f86539a85aa4e45852deef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/ff0a946435cfce194b77000f21090c8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/ff0a946435cfce194b77000f21090c8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alp/.gradle/caches/transforms-2/files-2.1/04e3b46068e30740909b650abce63cde/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alp/.gradle/caches/transforms-2/files-2.1/04e3b46068e30740909b650abce63cde/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/da5ba1c8243ee23ca5ef3f934de35cca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/da5ba1c8243ee23ca5ef3f934de35cca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/785b2c6b91d2133e72650909be4fb888/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/785b2c6b91d2133e72650909be4fb888/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/e6514ce7d67dbf806bea78049307b4e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/e6514ce7d67dbf806bea78049307b4e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/ecdb81068b157619583bb20b6f767a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/ecdb81068b157619583bb20b6f767a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/cc792ea4f1ef4101d30e78ab5883ee06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/cc792ea4f1ef4101d30e78ab5883ee06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/e4fc0e138c1186e63d487ecf9f148780/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/e4fc0e138c1186e63d487ecf9f148780/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/d18b226e2bdf3640f755c150fee7096d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/d18b226e2bdf3640f755c150fee7096d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c5e69bc0a3fd094c736d9e035e87a52c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c5e69bc0a3fd094c736d9e035e87a52c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/0bd27748bde3cec02e9bdd610cd066fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/0bd27748bde3cec02e9bdd610cd066fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/066c2cdbeb10db590b4d226a88b6b166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/066c2cdbeb10db590b4d226a88b6b166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/a75f13f3d325b8556ac1c6231d9d7cb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/a75f13f3d325b8556ac1c6231d9d7cb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/344babaeb5a47427859d495030539bce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/344babaeb5a47427859d495030539bce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/b10e4b64dd6cef0507019f05401b0693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/b10e4b64dd6cef0507019f05401b0693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/e73a4e4fb9e0e352ff306ffecec431ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/alp/.gradle/caches/transforms-2/files-2.1/e73a4e4fb9e0e352ff306ffecec431ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/71ca7d281505a2a3bb35ebec25cae47b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/71ca7d281505a2a3bb35ebec25cae47b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c43d44805ebc9ffd3061d7c434fe2eb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c43d44805ebc9ffd3061d7c434fe2eb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/8f950a8452d8db34c4054c36acbab532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/8f950a8452d8db34c4054c36acbab532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/5cc3ea4bffbf5c0dd5f81e3a8b822c3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/5cc3ea4bffbf5c0dd5f81e3a8b822c3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/254fdeff500cc1756293146e87f304a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/254fdeff500cc1756293146e87f304a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/febb6b5fc1839442f2c373e2672995a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/febb6b5fc1839442f2c373e2672995a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/7f87844c507bffb86e6daf4f10d82c6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/7f87844c507bffb86e6daf4f10d82c6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/fe6e9ecd39e6abf17c1f5afd85eb9941/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/fe6e9ecd39e6abf17c1f5afd85eb9941/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/f617c263578dbd2cdb337e260276ec13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/f617c263578dbd2cdb337e260276ec13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/b6878a64ee2247f8f9f0dd1b14f964b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/b6878a64ee2247f8f9f0dd1b14f964b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/762de676063aa5f2fca2ab3a8d9cb845/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/762de676063aa5f2fca2ab3a8d9cb845/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c79f43e799765fc4423f0409b095791b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/alp/.gradle/caches/transforms-2/files-2.1/c79f43e799765fc4423f0409b095791b/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/alp/Documents/RNExample/android/app/src/debug/AndroidManifest.xml:5:22-75

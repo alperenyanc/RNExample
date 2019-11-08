@@ -1,0 +1,71 @@
+import React, { Component } from 'react';
+import { Text, View, StyleSheet, Button, Image, TouchableOpacity, TextInput, ScrollView, Dimensions, SafeAreaView, FlatList,Alert } from 'react-native';
+
+import FlatListExample from './src/components/FlatListExample';
+import PlatformExample from './src/components/PlatformExample';
+import axios from 'axios';
+
+export default class App extends Component {
+  state={
+    name:'',
+    surname:'',
+    loading:true
+  };
+  componentDidMount(){
+    this.getrandomUser();
+  };
+ 
+
+  getrandomUser= async ()=>{
+    this.setState({loading:true});
+    const {data:{results}} = await axios.get('https://randomuser.me/api/');
+    const {name:{first,last}} = results[0]; 
+    this.setState({
+      name:first,
+      surname:last, 
+      loading:false 
+    });
+   
+    
+    
+  };  
+
+  
+ 
+  render() {
+
+    const {name,surname,loading} =this.state;
+
+    return (
+
+      <SafeAreaView style={styles.cotainer} >
+   <View>
+     {
+       loading ? <Text style={styles.Text}>Loading...</Text>: <Text style={styles.Text}>{name}{surname}</Text>
+     }
+     <Button
+       title={"random user"} 
+       
+       onPress={this.getrandomUser}/>
+  
+   </View>
+       
+        {/* <FlatListExample />  */}
+      {/* <PlatformExample /> */}
+      
+      </SafeAreaView>
+    ) 
+  }
+}
+const styles = StyleSheet.create({
+  cotainer: {
+    flex: 1,
+    justifyContent:'center',
+  alignItems:'center'
+  
+  },
+  Text:{
+    textAlign:'center'
+  }
+
+})
